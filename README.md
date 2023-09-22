@@ -25,6 +25,6 @@ Get in touch with me through the attached links:
 <a href="https://t.me/mastersportaposportu">
   <img alt="My telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
-<a href="mcclawdy@gmail.com">
+<a href="mailto: mcclawdy@gmail.com">
   <img alt="My email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
