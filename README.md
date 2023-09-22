@@ -1,9 +1,10 @@
-My name is Nikita and I'm a python backend developer ( but not only )
-<br>
-Blessed by the HEX, forgotten by the gods
+<img align='right' src="https://media.tenor.com/yl1OxQGcJH0AAAAC/peter-griffin-family-guy.gif" width="300">
+<h2>My name is Nikita and I'm a python developer ( but not only )</h2>
+<p><em>Blessed by the HEX, forgotten by the gods</em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcclawdy&layout=compact&theme=gotham&custom_title=Statistics)   -->
-#### Languages and tools:
+### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![grpc](https://img.shields.io/badge/grpc%20-%23092E20.svg?&style=for-the-badge&logo=google&logoColor=white&color=black)
 ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
@@ -16,6 +17,15 @@ Blessed by the HEX, forgotten by the gods
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | B2                                                                        |
+| Russian       | Native language                                                           |
+
 
 
 Are you interested in collaboration? I'm up to any inspiring projects.   
