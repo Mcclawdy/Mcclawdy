@@ -1,4 +1,5 @@
 My name is Nikita and I'm a python backend developer ( but not only )
+<br>
 Blessed by the HEX, forgotten by the gods
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcclawdy&layout=compact&theme=gotham&custom_title=Statistics)   -->
@@ -9,14 +10,11 @@ Blessed by the HEX, forgotten by the gods
 ![asyncio](https://img.shields.io/badge/asyncio-%2300BAFF.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![celery](https://img.shields.io/badge/-CELERY-1A4730?style=for-the-badge&logo=celery)
-![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![compose](https://img.shields.io/badge/Docker_compose%20-%23F7DF1E.svg?&style=for-the-badge&color=blue)
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
 
 
 Are you interested in collaboration? I'm up to any inspiring projects.   
