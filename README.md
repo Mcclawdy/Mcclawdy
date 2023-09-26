@@ -30,7 +30,6 @@
 ## What I'm currently learning 📚
 
 - Golang lang
-- AWS
 - Kubernetes
 
 Are you interested in collaboration? I'm up to any inspiring projects.   
