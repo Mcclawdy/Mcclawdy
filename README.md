@@ -29,8 +29,9 @@
 
 ## What I'm currently learning 📚
 
-- Golang lang
 - Kubernetes
+- Jenkins
+- Asynchronous architecture
 
 Are you interested in collaboration? I'm up to any inspiring projects.   
 Get in touch with me through the attached links:  
